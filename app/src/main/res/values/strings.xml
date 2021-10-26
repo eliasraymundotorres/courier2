@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Courier</string>
+    <string name="app_titulo">Iniciar Sesión</string>
+    <string name="app_user">Usuario</string>
+    <string name="app_password">Contraseña</string>
+    <string name="app_recuperar">Se olvido su contraseña?</string>
+    <string name="app_rep">Recuperar</string>
+</resources>
